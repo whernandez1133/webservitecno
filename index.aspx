@@ -148,7 +148,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <h3 class="mbr-section-title display-2">Ámbito de productos eCMX</h3>
+                <h3 class="mbr-section-title display-2">Ámbito de produ ctos eCMX</h3>
                 <small class="mbr-section-subtitle">El sistema eCMX para bancos cubre el proceso completo de productos de Comercio Exterior y de Cambios Internacionales de acuerdo a Reglas Comerciales,  Normativas,  Usos, Costumbres, Operación y Proceso.<br></small>
             </div>
         </div>
